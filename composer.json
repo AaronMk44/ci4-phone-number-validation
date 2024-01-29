@@ -1,0 +1,21 @@
+{
+    "name": "aaronmk44/ci4-phone-number-validation",
+    "description": "CodeIgniter 4 validation rules for phone numbers",
+    "type": "library",
+    "require": {
+        "giggsey/libphonenumber-for-php": "8.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aaronmk44\\Ci4PhoneNumberValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aaron Mkandawire",
+            "email": "77462566+AaronMk44@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
