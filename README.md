@@ -11,7 +11,7 @@ This Composer package provides a simple and efficient way for CodeIgniter 4 deve
 You can install the package via Composer. Run the following command in your CodeIgniter 4 project:
 
 ```bash
-composer require your-username/codeigniter4-phone-validation
+composer requireAaronMk44/codeigniter4-phone-validation
 ```
 
 ## Usage
